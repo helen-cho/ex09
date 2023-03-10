@@ -1,0 +1,14 @@
+.login {
+    width: 30%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.login input {
+    width: 100%;
+    margin-bottom: 10px;
+    border:none;
+    border-bottom: 1px solid gray;
+    padding: 5px 10px;
+    font-family: 'Gmarket';
+}
